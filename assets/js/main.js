@@ -8,7 +8,7 @@
   "use strict";
 
 
-  location.href="/error.html";
+  //location.href="/error.html";
 
   // Preloader
   $(window).on('load', function() {
